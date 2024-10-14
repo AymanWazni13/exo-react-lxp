@@ -7,6 +7,7 @@ function App() {
   return (
     <div >
     <Cart />
+    <Cart />    <Cart />    <Cart />    <Cart />
 
 
 
