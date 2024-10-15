@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div >
-    <Cart />
+    <Cart name="Air max DN" price="199.0" />
 
 
 
