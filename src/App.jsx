@@ -1,4 +1,4 @@
-import {Cart} from"./components/card"
+import {ProductGallery} from "./components/ProductGallery"
 
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div >
-    <Cart name="Air max DN" price="199.0" />
+    <ProductGallery />
 
 
 
